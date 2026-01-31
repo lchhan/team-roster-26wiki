@@ -32,13 +32,15 @@
 
 #### 2026-1-29
 - **完成任务**：学会了flexbox的基本使用，了解了响应式网页的基本要素
-- **估计完成时间**：4小时
+- **估计完成时间**：4+1小时
 - **备注**：Flexbox Froggy好玩捏
 
 #### 2026-1-31
-- **完成任务**：使用html+css书写网页版个人简历
-- **估计完成时间**：6小时
+- **完成任务**：使用html+css书写网页版个人简历，学习git与GitHub的使用
+- **估计完成时间**：6+3小时
 - **相关链接**：
+  - [GitHub 仓库](https://github.com/Antimerry/web-training-2026)
+  - [个人简历链接](https://antimerry.github.io/web-training-2026/phase1-static/)
   - [设计参考链接_1](https://www.bilibili.com/video/BV1yP4y137wg/?vd_source=e364c6cbbf1cb2aec29fe95294ed052c)
   - [设计参考链接_2](https://www.bilibili.com/video/BV1rz4y1e7wR/?vd_source=e364c6cbbf1cb2aec29fe95294ed052c)
 - **备注**：Gemini太聪明了
