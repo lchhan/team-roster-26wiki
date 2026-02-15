@@ -25,7 +25,7 @@
 - **完成任务**：avaScript 基础与“深色模式”交互实现
 - **估计完成时间**：10小时
 - **相关链接**：
-  - [个人链接]file:///Users/zz/Desktop/pages_work/index.html
+  - [个人链接][file:///Users/zz/Desktop/pages_work/index.html](http://127.0.0.1:5500/index.html)
 - **备注**：无
 
 **（所有内容均可修改）**
